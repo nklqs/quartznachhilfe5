@@ -1,2 +1,2 @@
 > [!error] Hausaufgabe:
-<%* await tp.file.rename(`${tp.date.now("DD.MM.YYYY")}`); %>
+<%* await tp.file.rename(`${tp.date.now("YYYY-MM-DD")}`); %>
