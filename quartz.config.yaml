@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/nklqs/quartznachhilfe5
+  baseUrl: nachhilfe.miggisch.ovh
   ignorePatterns:
     - private
     - templates
